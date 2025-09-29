@@ -4,8 +4,7 @@
 ## Author
 Created by ****
 
-[![Twitter Follow](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%400xedeng)](https://twitter.com/shapeden)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eden-gaon-6956a219/)
+
 
 ## Project Status
 [![GitHub Status](https://img.shields.io/github/workflow/status/edeng23/binance-trade-bot/binance-trade-bot?label=build)](https://github.com/edeng23/binance-trade-bot/actions)
@@ -17,11 +16,11 @@ Created by ****
 
 ## Community
 Join our growing community on Telegram to discuss strategies, get help, or just chat!
+TDB
 
-[![Telegram Chat](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/binancetradebotchat)
 
 #### Community Telegram Chat
-https://t.me/binancetradebotchat
+TDB
 
 ## Why?
 
