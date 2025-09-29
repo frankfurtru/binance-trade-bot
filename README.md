@@ -2,7 +2,7 @@
 > An automated cryptocurrency trading bot for Binance
 
 ## Author
-Created by **Eden Gaon**
+Created by ****
 
 [![Twitter Follow](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%400xedeng)](https://twitter.com/shapeden)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/eden-gaon-6956a219/)
